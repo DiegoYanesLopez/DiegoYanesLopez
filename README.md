@@ -1,16 +1,38 @@
-## Hi there 👋
+# Buenas!Soy Diego Yanes López 
 
-<!--
-**DiegoYanesLopez/DiegoYanesLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi:
+- 🎓 Tecnico superiro de Animación 3d,creación de  videojuegos y entornos interactivos
+      Tecnico superior de primer año de Desarrollo de aplicaciones multiplataforma
+- 🛠️ Creador de Videojuegos y Fullstack dev
+- 🎮 Apasionado de los videojuegos
 
-Here are some ideas to get you started:
+## Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <h3>Lenguajes</h3>
+      <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" />
+    </td>
+    <td valign="top" width="25%">
+      <h3>Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+    </td>
+    <td valign="top" width="25%">
+      <h3>Backend</h3>
+      <img src="https://skillicons.dev/icons?i=dotnet,django,spring" />
+    </td>
+    <td valign="top" width="25%">
+      <h3>Otros</h3>
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,mysql" />
+    </td>
+  </tr>
+</table>
+
+## Contacto:
+
+<p align="center">
+<a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="TU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
