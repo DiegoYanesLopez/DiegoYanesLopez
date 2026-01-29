@@ -3,10 +3,10 @@
 </p>
 
 ## 🚀 Sobre mi:
-- 🎓 **Técnico superior** en Animación 3D, creación de videojuegos y entornos interactivos.
-- 👨‍💻 **Técnico superior** de primer año de Desarrollo de aplicaciones multiplataforma.
-- 🛠️ **Creador de Videojuegos** y Fullstack dev.
-- 🎮 **Apasionado** de los videojuegos.
+- 🎓 Técnico superior en Animación 3D, creación de videojuegos y entornos interactivos.
+- 👨‍💻 Técnico superior de primer año de Desarrollo de aplicaciones multiplataforma.
+- 🛠️ Creador de Videojuegos y Fullstack dev.
+- 🎮 Apasionado de los videojuegos.
 
 ---
 
