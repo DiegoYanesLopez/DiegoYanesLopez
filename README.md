@@ -10,21 +10,13 @@
 
 <table>
   <tr>
-    <td valign="top" width="25%">
+    <td valign="top" width="50%">
       <h3>Lenguajes</h3>
       <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" />
     </td>
-    <td valign="top" width="25%">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-    </td>
-    <td valign="top" width="25%">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=dotnet,django,spring" />
-    </td>
-    <td valign="top" width="25%">
+    <td valign="top" width="50%">
       <h3>Otros</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,vscode,mysql" />
+      <img src="https://skillicons.dev/icons?i=git,docker,vscode,mysql,dotnet,react,tailwind" />
     </td>
   </tr>
 </table>
