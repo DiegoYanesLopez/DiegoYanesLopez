@@ -25,7 +25,7 @@
 ## 📨 Contacto:
 
 <p align="center">
-<a href="[TU_LINK_LINKEDIN](https://www.linkedin.com/in/diego-yanes-739b50354/)"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/diego-yanes-739b50354/)"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="TU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
