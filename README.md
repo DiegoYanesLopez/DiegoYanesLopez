@@ -5,9 +5,6 @@
       Tecnico superior de primer año de Desarrollo de aplicaciones multiplataforma
 - 🛠️ Creador de Videojuegos y Fullstack dev
 - 🎮 Apasionado de los videojuegos
-
-## Stack:
-
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -20,8 +17,6 @@
     </td>
   </tr>
 </table>
-
-## Contacto:
 
 <p align="center">
 <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
