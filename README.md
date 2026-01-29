@@ -13,11 +13,10 @@
     </td>
     <td valign="top" width="50%">
       <h3>Otros</h3>
-      <img src="https://skillicons.dev/icons?i=git,docker,vscode,mysql,dotnet,react,tailwind" />
+      <img src="https://skillicons.dev/icons?i=git,vscode" />
     </td>
   </tr>
 </table>
-
 <p align="center">
 <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
