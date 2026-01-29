@@ -4,9 +4,9 @@
 
 ## 🚀 Sobre mi:
 - 🎓 **Técnico superior** en Animación 3D, creación de videojuegos y entornos interactivos.
-- 👨‍💻 **Estudiante** de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 🛠️ **Creador de Videojuegos** y Desarrollador Fullstack.
-- 🕹️ **Apasionado** del gaming y la tecnología.
+- 👨‍💻 Técnico de 1º de Desarrollo de Aplicaciones Multiplataforma (DAM).
+- 🛠️ Creador de Videojuegos y Desarrollador Fullstack.
+- 🕹️ Apasionado del gaming y la tecnología.
 
 ---
 
