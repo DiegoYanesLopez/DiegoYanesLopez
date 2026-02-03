@@ -12,10 +12,9 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Técnico superior en Animación 3D, Juegos y Entornos Interactivos & Desarrollo de Apps Multiplataforma (DAM).
-- 👾 **Enfoque:** Creación de mecánicas de juego, optimización y desarrollo Fullstack.
-- 🎯 **Objetivo:** Fusionar la lógica de programación robusta con experiencias visuales inmersivas.
-- 🕹️ **Hobby:** Apasionado de los videojuegos y la tecnología.
+- 🎓 Formación: Técnico superior en Animación 3D, Juegos y Entornos Interactivos & Desarrollo de Apps Multiplataforma (DAM).
+- 👾 Enfoque Creación de mecánicas de juego, optimización y desarrollo Fullstack.
+- 🕹️ Hobby: Apasionado de los videojuegos y la tecnología.
 
 ---
 
