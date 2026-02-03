@@ -37,25 +37,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoYanesLopez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoYanesLopez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" />
-</div>
-
-### 🐍 Contribuciones (Snake Game)
-<div align="center">
-  <img src="https://github.com/DiegoYanesLopez/DiegoYanesLopez/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 📫 Contacto
-
 <div align="center">
   <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
