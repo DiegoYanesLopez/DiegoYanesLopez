@@ -6,7 +6,7 @@
 
   </p>
 
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/TU-USUARIO-LINKEDIN](https://www.linkedin.com/in/diego-yanes-739b50354/)" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:TU-EMAIL@gmail.com">
