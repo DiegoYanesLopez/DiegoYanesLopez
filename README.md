@@ -1,10 +1,13 @@
 <div align="center">
 
-# Hola, soy Diego Yanes López 👋
+# Hola, soy Diego Yanes López <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="45" height="45" />
 
-**Técnico Superior en Desarrollo de aplicaciones Multiplataforma // Animación 3D y programación de Videojuegos y Entornos Interactivos.**
+<!-- Efecto de máquina de escribir animado para las titulaciones -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=3776AB&center=true&vCenter=true&width=800&lines=T%C3%A9cnico+Superior+en+Desarrollo+Multiplataforma;Animaci%C3%B3n+3D+y+Programaci%C3%B3n+de+Videojuegos;Desarrollo+de+Entornos+Interactivos" alt="Typing SVG" />
+</a>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="ENLACE_A_TU_LINKEDIN">
@@ -43,5 +46,7 @@
 <br>
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Línea divisoria animada" width="800" />
 
 </div>
