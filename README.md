@@ -28,4 +28,28 @@
     <td width="50%" valign="top" style="border: none;">
       <h3>🛠️ Tech Stack</h3>
       <b>💻 Core & Backend</b><br>
-      <img src="
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <br><br>
+      <b>🎮 Game Dev & 3D</b><br>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+      <img src="https://img.shields.io/badge/Maya-000000?style=for-the-badge&logo=autodesk&logoColor=white" alt="Maya" />
+      <br><br>
+      <b>🌐 Web Fullstack</b><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/XML-006699?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&title_color=FF8B7B&icon_color=FF8B7B&text_color=2B1E2D&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
