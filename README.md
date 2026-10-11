@@ -50,6 +50,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=transparent&title_color=FF8B7B&icon_color=FF8B7B&text_color=2B1E2D&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+
