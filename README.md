@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo-diego-yanes.png" width="160" alt="Logo Diego Yanes" />
+ 
   <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=FF8B7B&center=true&vCenter=true&width=800&lines=T%C3%A9cnico+Superior+en+Desarrollo+Multiplataforma;Animaci%C3%B3n+3D+y+Programaci%C3%B3n+de+Videojuegos;Desarrollo+de+Entornos+Interactivos" alt="Typing SVG" />
